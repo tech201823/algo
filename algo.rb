@@ -1,2 +1,5 @@
 # bubble sort
-puts "test"
+bsort = Array.new
+puts "input num"
+bsort = gets.to_i
+puts "bsort"
